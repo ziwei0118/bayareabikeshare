@@ -1,5 +1,5 @@
-# Capstone project at the Data Incubator
-A machine learning approach to design urban bicycle-sharing system.
+#A machine learning approach to design urban bicycle-sharing system.
+This is my capstone project at the Data Incubator
 
 ## Python scripts in IPython Notebook
 
